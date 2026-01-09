@@ -58,6 +58,9 @@ The Python script performs the following checks:
 ---
 
 ## Power BI Dashboards
+<img width="1212" height="677" alt="Screenshot 2026-01-09 162358" src="https://github.com/user-attachments/assets/1f027d37-b36f-4ee8-9bbe-012cc76f25a8" />
+<img width="1216" height="672" alt="Screenshot 2026-01-09 162418" src="https://github.com/user-attachments/assets/96cda110-f751-4eac-8e9a-851c5dda66a5" />
+<img width="1217" height="676" alt="Screenshot 2026-01-09 162439" src="https://github.com/user-attachments/assets/826f9b08-c865-4073-915b-b42e330d6089" />
 
 ### System Health Overview
 - Total Trades
@@ -97,4 +100,5 @@ Dashboard screenshots are available in the Dashboard folder.
 - Financial operations workflow simulation
 
 ---
+
 
