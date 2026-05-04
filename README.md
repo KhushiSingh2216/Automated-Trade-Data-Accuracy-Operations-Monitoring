@@ -12,7 +12,7 @@ This project aligns with Core Tech Associate, Front Office Support, and Operatio
 - Detect operational and data-quality errors
 - Generate clean datasets and structured error logs
 - Compute KPIs for system health monitoring
-- Visualize insights using professional dashboards
+- Visualize insights using professional dashboardss
 
 ---
 
